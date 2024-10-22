@@ -1,0 +1,7 @@
+choice1=input("choose a number, 1 or 2")
+if choice1=="1":
+    print("you chose 1!")
+elif choice1=="2":
+    print("you chose 2")
+else:
+    print("i said choose 1 or 2")
